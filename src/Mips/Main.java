@@ -13,11 +13,7 @@ public class Main {
 		File inputDBfile = new File(file);
 		Scanner input = new Scanner(inputDBfile);
 		parser p = new parser(input);
-		/*String s = "Pooja/2098527_88766.jpg";
-		String nameInKey = s.substring(0,s.indexOf("/"));
-		System.out.println(nameInKey);
-		String keyPath = s.substring(s.indexOf("/"));
-		System.out.println(keyPath);*/
+		
 	}
 	
 
