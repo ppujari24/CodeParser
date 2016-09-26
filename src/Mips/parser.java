@@ -29,7 +29,7 @@ public class parser  {
 		
 		parts = instruction.split(" ");
 		opcode = parts[0];
-if(instruction.equalsIgnoreCase("lnop") || instruction.equalsIgnoreCase("nop")){
+		if(instruction.equalsIgnoreCase("lnop") || instruction.equalsIgnoreCase("nop")){
 			switch(opcode){
 			case "lnop":
 				b.append("00000000001");
