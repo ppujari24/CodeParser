@@ -1,0 +1,31 @@
+ah R1,R2,R3
+rotqbii R4,R5,16
+ahi R6,R1,6
+shlqbi R7,R8,R9
+a R10,R2,R3
+ila R11,27
+sfh R12,R8,R5
+ilh R13,25
+sfi R14,R8,15
+shlqbi R15,R2,R16
+andc R17,R16,R3
+lqd R20,R2,14
+clz R4,R6
+stqd R18,R19,14
+or R19,R20,R21
+il R22,25
+xor
+shlqbyi
+nand
+lqx
+nor
+stqa
+eqv
+rotqbi
+andi
+lqa
+andhi
+rotqbii
+shlh
+lnop
+shl
